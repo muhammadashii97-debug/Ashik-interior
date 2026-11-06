@@ -15,9 +15,9 @@ the words out loud. A line you would never say is not a draft, it is a retake.
 
 ## Who I am
 
-- **Name:**
-- **Handle:**
-- **What I do, in one sentence:**
+- **Name:** Forma Studio
+- **Handle:** @forma_studio_7
+- **What I do, in one sentence:** Interior design studio (details to confirm)
 - **Who I am talking to:** (be specific: "photographers charging under $2,000",
   not "creatives")
 - **What I sell:**
