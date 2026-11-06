@@ -17,10 +17,10 @@ the words out loud. A line you would never say is not a draft, it is a retake.
 
 - **Name:** Forma Studio
 - **Handle:** @forma_studio_7
-- **What I do, in one sentence:** Interior design studio (details to confirm)
+- **What I do, in one sentence:** Interior design and bespoke furniture studio in Coimbatore: kitchens, wardrobes, bedrooms and complete homes.
 - **Who I am talking to:** (be specific: "photographers charging under $2,000",
   not "creatives")
-- **What I sell:**
+- **What I sell:** 2BHK & 3BHK whole-home packages, wardrobe package, kitchens; post-handover support; online preliminary estimate.
 
 ## What I sound like
 
@@ -64,4 +64,4 @@ never invent one, so if this section is empty, every draft comes back with
 
 - **My keyword CTA, if I use one:** (one word, sayable, no spaces)
 - **What the keyword sends them:**
-- **Where my link goes:**
+- **Where my link goes:** www.formastudio.site (estimate / quotation request)
