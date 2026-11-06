@@ -13,22 +13,16 @@ Source: Forma_Studio_Whole_Home_Brochure_CURRENT.pdf, Forma_Studio_Individual_Br
 - 45-day target delivery*, 1-year workmanship warranty, 2D approval before fabrication, 6-step process.
 - Excludes: countertop, sink/tap/tiles, appliances, plumbing/electrical, civil, false ceiling, loose furniture.
 
-## Series: 8 reels + 4 carousels over 4 weeks
-| # | Week | Format | Topic | Hook (score) |
-|---|---|---|---|---|
-| 1 | W1 Mon | Reel | 3 tiers explained (plywood + shutters) | "Don't sign an interior quote until you know these 3 plywood names." (85.6) |
-| 2 | W1 Wed | Reel | 2BHK whole home | "Your 2BHK interior in Coimbatore can start at ₹4.5 lakh. Don't overpay for it." (69.4) |
-| 3 | W1 Fri | Reel | 3BHK whole home | TBD |
-| 4 | W1 Sat | Carousel | Included / excluded + 45 days + 1 yr warranty | — |
-| 5 | W2 Mon | Reel | Kitchen tiers | TBD |
-| 6 | W2 Wed | Carousel | Kitchen tiers (save-able) | — |
-| 7 | W2 Fri | Reel | Wardrobe tiers | "Nobody tells you your wardrobe price doubles from ₹2,100 to ₹4,400 a sq ft." (78.7) |
-| 8 | W3 Mon | Carousel | Wardrobe tiers | — |
-| 9 | W3 Wed | Reel | TV unit tiers | TBD |
-| 10 | W3 Fri | Reel | REAL SITE (staircase re-edit) | — |
-| 11 | W4 Mon | Reel | Study unit tiers | TBD |
-| 12 | W4 Wed | Reel | Crockery unit tiers | TBD |
-| 13 | W4 Fri | Carousel | 6-step process + add-ons | — |
+## Series (agreed): 4 package reels, one per week
+| Week | Reel | Content |
+|---|---|---|
+| 1 | Units part 1: Kitchen + Wardrobe | Kitchen 2,200-4,200/sq ft; Wardrobe 2,100-4,400/sq ft. Hook idea: "Nobody tells you your wardrobe price doubles from 2,100 to 4,400 a sq ft." (78.7) |
+| 2 | Units part 2: TV + Study + Crockery | TV 1,600-2,500; Study 1,800-2,500; Crockery 2,000-3,100 |
+| 3 | 2BHK whole home | 4.5L / 6.5L / 8.5L + GST. Hook idea: "Your 2BHK interior in Coimbatore can start at 4.5 lakh. Don't overpay for it." (69.4) |
+| 4 | 3BHK whole home | 6L / 8L / 10L + GST |
+
+Each reel 25-30s, vertical, Signature Comfort as hero ("MOST CHOSEN"), "From ... + GST · Oct 2026 rates", CTA formastudio.site.
+Between package reels: stories most days + 1 short real-site reel per week.
 
 ## Open questions
 - How is per-sq-ft billed (front area W x H?) — needed for a worked example.
