@@ -10,10 +10,28 @@ Forma Studio brochures (Oct 2026 rates). Do not let the tool invent prices or fe
 
 ```
 You are making one Instagram Reel for Forma Studio, a modular interiors and bespoke
-cabinetry studio in Coimbatore (www.formastudio.site, @forma_studio_7). Build it as a
-motion-graphics video (Remotion/ffmpeg). Export MP4, H.264, 1080x1920, 30 fps, NO MUSIC
-(music is added later in Instagram). Optional: subtle sound-design hits (soft click,
-whoosh, light switch) on a separate stem, royalty-free only.
+cabinetry studio in Coimbatore (www.formastudio.site, @forma_studio_7).
+Export MP4, H.264, 1080x1920, 30 fps. Deliver TWO files: one with the original music,
+one with no audio.
+
+TOOLCHAIN — use each tool for its job:
+- Remotion (Node.js): builds the whole motion piece — locked dimension frame, upgrade
+  scan wipe (clip-path), LED "lights on" flicker, odometer price counter, feature chips,
+  MOST CHOSEN badge, floor-plan line draw (SVG stroke-dashoffset), departure-board price
+  flip, 15° perspective tilt (CSS 3D transform), Forma logo tag, end card. Keep every
+  timing in frames on a 100 BPM grid (18 frames per beat at 30 fps) and export the cut
+  list (frame numbers of every scene change, scan start, lights-on, price flip).
+- FFmpeg: prepares the input images (crop each tier panel to vertical, upscale with
+  lanczos, match colour across tiers so the scan wipe looks seamless), applies the final
+  colour finish (warm, slightly lifted blacks, light grain), and muxes the music.
+- Python: composes ORIGINAL music (no samples from existing songs) at 100 BPM,
+  warm and minimal (soft piano / muted pluck + low pad + light percussion), reading the
+  Remotion cut list so accents land on: each upgrade scan (soft riser into a hit),
+  lights-on (a single bright chime), each price flip (tick), end card (resolve).
+  Music fades out over the last 1.5 s. Loudness about -14 LUFS.
+- Whisper: only if a voiceover is added — transcribe it and burn in captions inside the
+  safe zone, timed per word.
+- Git: setup only.
 
 SERIES CONCEPT — "SAME SIZE. THREE STORIES."
 Forma's packages keep the SAME outer size of each unit and upgrade what is inside, across
