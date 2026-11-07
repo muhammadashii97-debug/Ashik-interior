@@ -13,6 +13,19 @@ Source: Forma_Studio_Whole_Home_Brochure_CURRENT.pdf, Forma_Studio_Individual_Br
 - 45-day target delivery*, 1-year workmanship warranty, 2D approval before fabrication, 6-step process.
 - Excludes: countertop, sink/tap/tiles, appliances, plumbing/electrical, civil, false ceiling, loose furniture.
 
+## Posting schedule (confirmed by Forma, all Fridays)
+| Date | Post | Status |
+|---|---|---|
+| Fri Nov 6 | Forma Studio launch reel | Posted |
+| Sat Nov 7 | Website launch reel | To post (put formastudio.site in bio first) |
+| Fri Nov 13 | Packages week 1: Kitchen + Wardrobe | Revisions requested |
+| Fri Nov 20 | Packages week 2: TV + Study + Crockery | Revisions requested |
+| Fri Nov 27 | Packages week 3: 2BHK | Revisions requested |
+| Fri Dec 4 | Packages week 4: 3BHK | Revisions requested |
+| Fri Dec 11 | Slow-mo site reel (work in progress) | Needs re-edit (black intro, faint text) |
+| Fri Dec 18 | (open slot) | Suggest: real-site short or packages recap carousel |
+| Fri Dec 25 | First completed site video | To shoot |
+
 ## Series (agreed): 4 package reels, one per week
 | Week | Reel | Content |
 |---|---|---|
