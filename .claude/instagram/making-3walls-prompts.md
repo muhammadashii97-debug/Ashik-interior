@@ -8,7 +8,8 @@ the Dec 26 full reveal.
 |---|---|---|
 | Fri Nov 13 | MAKING 1 — Ground floor: staircase, hall panelling, TV wall | "Don't leave the first 3 walls your guests see bare." (87 STRONG) |
 | Fri Nov 20 | MAKING 2 — Bedroom: back panel, wardrobe, bay window | "Don't waste 3 walls of your bedroom." (87 STRONG) |
-| optional | BONUS — 8 s founder walk-in | see bottom |
+| Fri Nov 27 | BONUS 1 — "Walk in with us" one-take house tour | "Don't judge a home by its outside. Walk in with us." (80 STRONG) |
+| Fri Dec 4 | BONUS 2 — Founder on site | "Your designer should be on site every week. Ours is." (78 STRONG) — only if true |
 
 ## Source files (Drive folder "making")
 | Code | File | What it is | Notes |
@@ -128,12 +129,57 @@ END CARD as in the shared brief, title "3 WALLS. ONE BEDROOM."
 
 ---
 
-## OPTIONAL BONUS — FOUNDER WALK-IN (8 s, any day, also good as a story)
+## BONUS 1 — "WALK IN WITH US" (post Fri Nov 27)
 
 ```
-8 s vertical. C1 0:04.5–0:09 at 50%, 4:5 card, bright grade.
-Text frame 1: "THIS IS WHERE YOUR HOME" / "GETS BUILT."   then
-"{{Name}}, founder · Forma Studio" as a lower third at 0:02.
-End: "Follow the build → Dec 26 reveal".
+Use the SHARED BRIEF look and music, but no animatic — this one hooks with motion.
+Length 20 s. Feels like ONE continuous walk from the street into the bedroom.
+
+HOOK (frame 1): exterior already moving.
+  "DON'T JUDGE A HOME BY ITS OUTSIDE." / "Walk in with us."   (80 STRONG)
+  C4 0:05–0:08 at 100% (23.976 fps clip — never slow it), full-width card that grows
+  to fill the frame as the camera nears the house.
+
+ONE-TAKE ILLUSION — match cuts through doorways, with speed ramps:
+  - Between rooms: 200% speed + directional motion blur (0.4–0.6 s).
+  - On each hero: drop to 50% slow motion (real 60 fps frames) for 2–2.5 s.
+  - Sound: a soft "whoosh" on every ramp, a warm pluck when slow motion lands.
+  A thin gold progress line runs along the bottom of the card (inside the safe zone)
+  and a room chip counts "ROOM 1/4 … 4/4" — viewers stay to see the last room.
+
+SEQUENCE
+  1. C7 0:00–0:02 — through the gate (ramp in).
+  2. ROOM 1/4 · HALL — C2 0:00–0:04 slow: staircase, wood arch, panelled walls
+     (full width). Caption: "Staircase wall, panelled."
+  3. ramp → ROOM 2/4 · LIVING — C2 0:09.5–0:13.5 slow: marble-finish TV wall
+     with the zig-zag strip. Caption: "Marble-finish TV wall."
+  4. ramp up the stairs — W 0:42–0:48 at 200%, then W 0:48–0:51 slow looking up
+     at the jali. Caption: "Jali at the top."
+  5. ROOM 3/4 · BEDROOM — C1 0:01–0:04 slow: bed back-panel wall, then
+     C1 0:09–0:13 wardrobe being built (4:5 card). Caption: "Wardrobe, taking shape."
+  6. ROOM 4/4 · BAY WINDOW — W 1:17–1:20 slow, FULL WIDTH, then W 1:25–1:27.5 at 100%
+     someone sitting on the ledge. Caption: "Deep enough to sit."
+END (2.5 s): "THIS IS THE MAKING." / "THE FINISHED HOME · DEC 26" /
+  "Follow @forma_studio_7"
 ```
-(Only if the person in the orange T-shirt is the founder and is happy to be named.)
+
+---
+
+## BONUS 2 — FOUNDER ON SITE (post Fri Dec 4)
+
+Use ONLY if (a) the person in the orange T-shirt is the founder and happy to be named, and
+(b) the hook is true. If the designer is not on site every week, use the fallback hook.
+
+```
+Length 12 s, 4:5 card, bright grade, SHARED BRIEF look and music.
+
+HOOK (frame 1): "YOUR DESIGNER SHOULD BE ON SITE" / "EVERY WEEK. OURS IS."   (78)
+  Fallback hook if not literally true: "THIS IS WHO CHECKS EVERY LINE."
+  Clip: C1 0:04.5–0:09 at 50% — he walks into the bedroom and looks over the work.
+  Lower third at 0:02: "{{Name}} · Founder, Forma Studio"
+Then C1 0:09–0:13 at 50% — carpenter at the wardrobe. Caption: "With our carpenters,
+  on every site."
+Then W 1:06–1:09 at 50% — two carpenters measuring at the window (crop clean).
+  Caption: "Measured on site, to the inch."
+END (2.5 s): "MEET THE PEOPLE BUILDING YOUR HOME." / "Follow @forma_studio_7"
+```
