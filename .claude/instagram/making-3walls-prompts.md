@@ -9,7 +9,7 @@ the Dec 26 full reveal.
 | Fri Nov 13 | MAKING 1 — Ground floor: staircase, hall panelling, TV wall | "Don't leave the first 3 walls your guests see bare." (87 STRONG) |
 | Fri Nov 20 | MAKING 2 — Bedroom: back panel, wardrobe, bay window | "Don't waste 3 walls of your bedroom." (87 STRONG) |
 | Fri Nov 27 | BONUS 1 — "Walk in with us" one-take house tour | "Don't judge a home by its outside. Walk in with us." (80 STRONG) |
-| Fri Dec 4 | BONUS 2 — Founder on site | "Your designer should be on site every week. Ours is." (78 STRONG) — only if true |
+| Fri Dec 4 | BONUS 2 — On site with Forma | "Don't trust a design you can't watch being built. Watch ours." (86 STRONG) |
 
 ## Source files (Drive folder "making")
 | Code | File | What it is | Notes |
@@ -165,21 +165,17 @@ END (2.5 s): "THIS IS THE MAKING." / "THE FINISHED HOME · DEC 26" /
 
 ---
 
-## BONUS 2 — FOUNDER ON SITE (post Fri Dec 4)
-
-Use ONLY if (a) the person in the orange T-shirt is the founder and happy to be named, and
-(b) the hook is true. If the designer is not on site every week, use the fallback hook.
+## BONUS 2 — ON SITE WITH FORMA (post Fri Dec 4)
 
 ```
-Length 12 s, 4:5 card, bright grade, SHARED BRIEF look and music.
+Length 12 s, 4:5 card, bright grade, SHARED BRIEF look and music. No personal names.
 
-HOOK (frame 1): "YOUR DESIGNER SHOULD BE ON SITE" / "EVERY WEEK. OURS IS."   (78)
-  Fallback hook if not literally true: "THIS IS WHO CHECKS EVERY LINE."
-  Clip: C1 0:04.5–0:09 at 50% — he walks into the bedroom and looks over the work.
-  Lower third at 0:02: "{{Name}} · Founder, Forma Studio"
-Then C1 0:09–0:13 at 50% — carpenter at the wardrobe. Caption: "With our carpenters,
-  on every site."
+HOOK (frame 1): "DON'T TRUST A DESIGN" / "YOU CAN'T WATCH BEING BUILT." /
+  then at 1.0 s, gold: "Watch ours."   (86 STRONG)
+  Clip: C1 0:04.5–0:09 at 50% — the team member walks into the bedroom and looks over
+  the work. Lower third at 0:02: "FORMA STUDIO · ON SITE"
+Then C1 0:09–0:13 at 50% — carpenter at the wardrobe. Caption: "Every unit, checked on site."
 Then W 1:06–1:09 at 50% — two carpenters measuring at the window (crop clean).
-  Caption: "Measured on site, to the inch."
-END (2.5 s): "MEET THE PEOPLE BUILDING YOUR HOME." / "Follow @forma_studio_7"
+  Caption: "Measured to the inch."
+END (2.5 s): "WATCH YOUR HOME BEING BUILT." / "Follow @forma_studio_7"
 ```
