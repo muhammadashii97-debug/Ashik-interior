@@ -33,8 +33,10 @@ The look must feel like a luxury real-estate film, not a slideshow.
 
 2. SKETCH-TO-REAL (signature effect, once per chapter)
    - For the first frame of each chapter clip, generate line art from the REAL frame
-     (FFmpeg: edgedetect=low=0.08:high=0.2, invert, threshold, tint gold #C8A27A on
-     transparent). In Remotion, draw that line art on over 14 frames (stroke reveal
+     (tested settings): brighten the frame (eq brightness 0.06, contrast 1.08) →
+     hqdn3d=6:6 → edgedetect=low=0.08:high=0.22 → threshold to white lines on black →
+     thicken lines with a 3x3 max filter (dilate 1 px) → remove specks under 20 px →
+     colour the lines gold #D8B488 on transparent → add a 5 px gold glow (screen blend). In Remotion, draw that line art on over 14 frames (stroke reveal
      left→right), hold 4 frames, then cross-dissolve (10 frames) into the live footage
      exactly underneath. Reads as "design drawing becomes the real build".
 
