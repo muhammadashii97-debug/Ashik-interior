@@ -44,12 +44,16 @@ Between package reels: stories most days + 1 short real-site reel per week.
 - Who produces motion videos — Claude (ffmpeg) or designer?
 
 ## Friday reels, Nov–Dec 2026 (updated Nov 13)
-| Date | Reel | Status |
-|---|---|---|
-| Fri Nov 13 | IN THE MAKING — Premium A (first impression) | Posted |
-| Fri Nov 20 | IN THE MAKING — Premium B (bedroom) | Ready |
-| Fri Nov 27 | Full making slow-mo reel | Needs fixes: black zoom-in first second, faint word-by-word text |
-| Fri Dec 4 | Project 2 — Teaser (b&w → colour flips, ~8 s) | To build |
-| Fri Dec 11 | Project 2 — Kitchen (fast cuts + calm wide finish, ~20 s) | To build — hook "Don't leave your mixer on the counter. Hide it behind a shutter." (80) |
-| Fri Dec 18 | Project 2 — Rest of the home: TV wall, bookshelf, wardrobe, vanity (~20 s) | To build — hook "Don't stop at the kitchen. Plan 4 more walls." (95). Wardrobe/vanity clips weak; reshoot if possible |
-No package names or prices in Project 2 reels. Counter, hob, chimney, sink, basin, tap are outside Forma's scope — captions name cabinetry only.
+Site 1 = "IN THE MAKING" (under construction). Site 2 = "LIVED IN" (finished home, in use).
+Rule: every shot appears in ONE reel only.
+
+| Date | Site | Reel | Sources | Status |
+|---|---|---|---|---|
+| Fri Nov 13 | 1 | Premium A — first impression | — | Posted |
+| Fri Nov 20 | 1 | Premium B — bedroom | — | Ready |
+| Fri Nov 27 | 1 | Full making slow-mo — re-edit | raw clips of the old reel | Fix: open on lit arch (no black zoom-in), readable captions |
+| Fri Dec 4 | 2 | Teaser "A Forma home. Coming soon." (~8 s, b&w → colour flips) | DJI_153609 (shutter, wall cabinets, loft), DJI_153253 0–2.5 s (levelled), IMG_0332 0–1.7 s (arch + study nook), IMG_0326 (mirror, sticker cropped) | To build |
+| Fri Dec 11 | 2 | Kitchen (~20 s, fast cuts + calm wide finish) | IMG_3457 (shutter, pantry, plate drawer, plate rack, loft), DJI_153609 33–36 s (utensil drawer), DJI_152901 (hero sweep) | Hook: "Don't leave your mixer on the counter. Hide it behind a shutter." (80) |
+| Fri Dec 18 | 2 | Rest of the home: TV wall + showcase, bookshelf, wardrobe, vanity (~20 s) | IMG_0332 6–10 s and 12–18 s, IMG_0329/0330 (crop boxes + bed), IMG_0327 (crop basin sticker) | Hook: "Don't stop at the kitchen. Plan 4 more walls." (95) |
+
+No package names or prices in Site 2 reels. Counter, hob, chimney, sink, basin, tap are outside Forma's scope — captions name cabinetry only.
