@@ -42,3 +42,14 @@ Between package reels: stories most days + 1 short real-site reel per week.
 - Are the comparison images AI-generated (→ AI label on)?
 - Higher-resolution originals of the 5 sheets?
 - Who produces motion videos — Claude (ffmpeg) or designer?
+
+## Friday reels, Nov–Dec 2026 (updated Nov 13)
+| Date | Reel | Status |
+|---|---|---|
+| Fri Nov 13 | IN THE MAKING — Premium A (first impression) | Posted |
+| Fri Nov 20 | IN THE MAKING — Premium B (bedroom) | Ready |
+| Fri Nov 27 | Full making slow-mo reel | Needs fixes: black zoom-in first second, faint word-by-word text |
+| Fri Dec 4 | Project 2 — Teaser (b&w → colour flips, ~8 s) | To build |
+| Fri Dec 11 | Project 2 — Kitchen (fast cuts + calm wide finish, ~20 s) | To build — hook "Don't leave your mixer on the counter. Hide it behind a shutter." (80) |
+| Fri Dec 18 | Project 2 — Rest of the home: TV wall, bookshelf, wardrobe, vanity (~20 s) | To build — hook "Don't stop at the kitchen. Plan 4 more walls." (95). Wardrobe/vanity clips weak; reshoot if possible |
+No package names or prices in Project 2 reels. Counter, hob, chimney, sink, basin, tap are outside Forma's scope — captions name cabinetry only.
