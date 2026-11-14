@@ -57,3 +57,12 @@ Rule: every shot appears in ONE reel only.
 | Fri Dec 18 | 2 | Rest of the home: TV wall + showcase, bookshelf, wardrobe, vanity (~20 s) | IMG_0332 6–10 s and 12–18 s, IMG_0329/0330 (crop boxes + bed), IMG_0327 (crop basin sticker) | Hook: "Don't stop at the kitchen. Plan 4 more walls." (95) |
 
 No package names or prices in Site 2 reels. Counter, hob, chimney, sink, basin, tap are outside Forma's scope — captions name cabinetry only.
+
+## Site 2 December — decisions (Nov 14)
+| Fri | Reel | Decision |
+|---|---|---|
+| Dec 4 | Teaser | Style B: rapid full-screen freeze-frames, each with a camera-shutter click + white flash. Repeated shots are fine. Waiting for Forma's reference teaser link before writing the prompt. |
+| Dec 11 | Living room + bedrooms | Hook: "Don't leave your TV wall bare. Build the whole wall." (81) |
+| Dec 18 | Kitchen + wash basin | Hook: "Don't leave your mixer on the counter. Hide it behind a shutter." (80) |
+Confirmed by Forma: kitchen and wash-basin cabinets are moisture-resistant (can be stated in captions); upholstered headboard wall and vanity cabinet are Forma's work (captions allowed).
+The earlier split in site2-december-prompts.md (kitchen Dec 11, rest of home Dec 18) is superseded.
