@@ -1,24 +1,23 @@
 # Teaser stills — clean-up + one colour grade (before building the Dec 4 teaser)
 
-Order of work: 1) colour grade (DONE — Forma_teaser_stills_graded.zip) → 2) remove clutter
+Order of work: 1) colour grade (DONE — Forma_teaser_stills_refpalette.zip, reference palette) → 2) remove clutter
 (AI image editor, prompt below) → 3) upscale → 4) build the teaser with
 teaser-dec4-prompt.md using the cleaned stills.
 
-## About matching the website look
-The website images are dark, night-time renders with walnut wood and glowing LED strips.
-These stills are real daytime photos of beige/champagne acrylic cabinets. A grade can give
-them the same FAMILY of colour (espresso shadows, warm cream highlights, soft vignette) —
-that is what the graded zip does. Turning them into dark walnut night scenes would need AI
-to repaint the cabinets, which would show a home that does not exist. Keep the real
-finishes.
+## Colour palette = the REFERENCE teaser (not the website)
+Measured from the reference teaser: matte, airy, warm-greige.
+- Shadows lifted to soft warm brown (about RGB 40–60) — never pure black.
+- Mid-tones warm greige with a slight rosy-beige bias (about RGB 145/136/128).
+- Highlights soft neutral white, capped around RGB 225 — never blown out.
+- Low saturation, soft contrast.
 
-## The "Forma Warm" grade (already applied — use these numbers if re-grading in your tool)
-1. White balance: neutralise colour casts (85% grey-world), then warm: R ×1.04, G ×1.00,
-   B ×0.92.
-2. Tone curve: black point 3%, gamma 1.12 (slightly richer mids), soft highlight roll-off.
-3. Split toning: shadows toward espresso RGB(41, 28, 18) at 18%; highlights toward warm
-   cream RGB(255, 237, 209) at 10%.
-4. Saturation +6%.  5. Vignette 22%.
+DONE: all 20 stills already graded to this palette — Forma_teaser_stills_refpalette.zip.
+Method (to re-apply in your tool, e.g. on video): match each image's Lab colour
+statistics to the reference (L mean 54.9 / std 24.8, a mean 1.6 / std 3.5, b mean 5.3 /
+std 4.5) at 85% strength, then matte curve: output = 0.15 + 0.74 × input (lifted blacks,
+whites capped at ~0.89).
+Note: this palette mutes strong colours — the navy TV wall reads slate-mauve and the
+bedsheets go soft. That matches the reference look.
 
 ---
 
