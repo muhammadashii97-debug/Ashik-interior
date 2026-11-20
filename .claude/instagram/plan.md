@@ -66,3 +66,13 @@ No package names or prices in Site 2 reels. Counter, hob, chimney, sink, basin, 
 | Dec 18 | Kitchen + wash basin | Hook: "Don't leave your mixer on the counter. Hide it behind a shutter." (80) |
 Confirmed by Forma: kitchen and wash-basin cabinets are moisture-resistant (can be stated in captions); upholstered headboard wall and vanity cabinet are Forma's work (captions allowed).
 The earlier split in site2-december-prompts.md (kitchen Dec 11, rest of home Dec 18) is superseded.
+
+## Confirmed schedule (Nov 20)
+| Fri | Post |
+|---|---|
+| Nov 20 | Premium B (bedroom) — posting today |
+| Nov 27 | Premium C slow-motion (send fixed version by Nov 25) |
+| Dec 4 | Site 2 teaser (click shots) |
+| Dec 11 | Site 2 — living room + bedrooms |
+| Dec 18 | Site 2 — kitchen + wash basin |
+| Later | Package reels with prices, once reach grows |
