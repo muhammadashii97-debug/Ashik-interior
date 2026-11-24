@@ -229,3 +229,43 @@ File name: Forma-Movers-Nov26.mp4
 ```
 Confirm before running: the buy-back guarantee ("up to 36 months") is left out until its terms
 are clear — tell us if you want it in the reel and how it should be worded.
+
+---
+
+## REVISION 2 (Nov 24) — paste into the tool after the earlier fix prompt
+
+```
+REVISION 2 — all 8 Nov 2026 package reels. Keep everything else as it is.
+
+A) SLOW DOWN EVERY PRICE (all 8 reels)
+- Every price must be fully readable, standing still, for at least 2.5 s.
+- Odometer roll max 12 frames, then the number HOLDS still; no motion on the price while it
+  is held (the picture may keep its slow drift).
+- Unit reels (Kitchen, Wardrobe, TV unit, Crockery, Study): each tier scene becomes
+  ≈4.5 s (roll 0.4 s + hold 2.5 s + chips/transition 1.6 s). Signature stays the longest
+  (≈5 s). New total ≈ 20 s.
+- 2BHK / 3BHK: the price board reveals one tier at a time and each tier price holds 2.5 s
+  before the next appears; then all three stay together for 2 s. New total ≈ 34 s.
+- Text sizes for prices: ≥ 84 px; "/ sq ft + 18% GST" ≥ 34 px.
+
+B) FORMA MOVERS — new opening and buy-back
+0:00–0:02.5 HOOK (frame 0, fully visible): "RENTING?" / "DON'T BUY FIXED FURNITURE" /
+            "YOU CAN'T CARRY WHEN YOU MOVE."   (hook score 85.6 STRONG)
+0:02.5–0:06 THE PROBLEM — three quick problem cards over the room, each 1.1 s, each with a
+            red ✕ that stamps in:
+              ✕ "Fixed to the wall. Stays behind."
+              ✕ "Heavy. Hard to carry."
+              ✕ "New house, buy it all again."
+            then the truck drives off and the wardrobe is LEFT BEHIND (as now).
+Then FORMA MOVERS title → flat-pack → truck → reassembly (as now).
+THE RANGE: each product card holds 1.6 s (price still for ≥ 1.3 s); name ≥ 56 px,
+            price ≥ 84 px.
+NEW BUY-BACK SCENE (2.5 s, after the colour flip, before the end card):
+            a gold seal stamps in: "BUY-BACK GUARANTEE" / "up to 36 months"
+            sub-line: "Moving on? We buy it back." small: "*Terms apply"
+END CARD chips: "Fixed price, no package needed" · "Fitted at your home" ·
+            "Buy-back up to 36 months*" · "2-year panel warranty".
+New Movers total ≈ 36 s.
+
+Re-export all 8 (music + silent); re-time the music so cuts and accents still land.
+```
