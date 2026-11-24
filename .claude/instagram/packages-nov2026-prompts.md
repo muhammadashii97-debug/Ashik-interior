@@ -54,6 +54,48 @@ Export 1080x1920, 30 fps, two versions (music + silent).
 
 ---
 
+## MOTION UPGRADE — paste after the Shared Note (makes every reel unique)
+
+```
+This series must look like nothing else on Instagram interiors. Keep the brand system
+(cream/espresso/gold, serif + Montserrat, MOST CHOSEN, price footer) but give EACH reel its
+own signature motion idea. All of it is buildable in Remotion with 2.5D layers, CSS 3D
+transforms, SVG path drawing, clip-path masks and spring() easing.
+
+GLOBAL MOTION LANGUAGE (all 7 reels)
+- 2.5D depth: split every tier image into 3 layers (background wall, cabinet body, front
+  props) using masks; move them at different speeds (parallax 4% / 8% / 14%) during a slow
+  camera drift. Nothing is ever a flat still.
+- Spring physics: chips, badges and prices enter with spring({damping: 14, mass: 0.6}),
+  overshoot then settle. Never linear.
+- Kinetic price: digits roll individually like a mechanical counter (each digit its own
+  wheel with motion blur), gold glint sweeps across when it lands.
+- Light as a character: a warm light beam (radial gradient, screen blend) travels across
+  the cabinet when the tier upgrades; dust particles (40–60, slow drift) visible in the beam.
+- Micro-sound on every motion (click, slide, soft thud, chime), timed to the frame.
+- Hook text: each word drops in with a 3D flip (rotateX 90°→0°) staggered 3 frames.
+
+SIGNATURE IDEA PER REEL (do not reuse between reels)
+1 KITCHEN — "THE DRAWER REVEAL": tiers change by drawers sliding out in 3D (translateZ +
+  shadow), each drawer front carrying the next tier name and price; closes on the new tier.
+2 WARDROBE — "DOORS OPEN": wardrobe shutters swing open on 3D hinges (rotateY 0→-105°,
+  perspective 1600) to reveal each tier's interior; mirror shutter catches a light flare.
+3 TV UNIT — "SCREEN ON": the TV screen itself is the info panel — it powers on with a
+  CRT-style line, shows tier name + price on screen, then the unit lights up around it.
+4 CROCKERY — "GLASS & LIGHT": glass doors get a moving reflection sweep; shelves light up
+  one by one bottom→top; plates "clink" into place (tiny spring bounce) on Signature/Luxe.
+5 STUDY — "DESK LAMP": scene starts dark; a desk lamp clicks on, its light cone reveals
+  each tier; price written by a pen-stroke animation (SVG path) on a notepad card.
+6 2BHK — "BLUEPRINT TO 3D": floor plan draws in gold, then walls extrude upward into an
+  isometric 3D model (CSS 3D, 30° tilt); camera flies room to room as each unit drops in.
+7 3BHK — "ONE MORE ROOM": opens on the finished 2BHK model, which slides apart to make room
+  for a third bedroom that builds itself; then the same flythrough and price board.
+
+END CARD (all): the F of the logo is drawn as a gold line (SVG stroke), the rest of the
+logo fades in, CTA rises on a spring. Hold ≥ 2.5 s.
+Keep every text element readable for at least 1.2 s — motion must never hide a price.
+```
+
 ## PROMPT A — five unit reels (16 s each)
 
 ```
@@ -130,10 +172,9 @@ counter, lights on, departure-board prices, trust strip, CTA). Change only:
   Same lines under each tier as 2BHK.
 
 Both: footer "Nov 2026 rates · Transport ₹2,000 per project · Lighting quoted separately".
-Remove the old trust strip line "45-day target delivery" unless Forma confirms it still
-applies. File names: Forma-2BHK-Nov26.mp4, Forma-3BHK-Nov26.mp4 (+ "-Silent").
+File names: Forma-2BHK-Nov26.mp4, Forma-3BHK-Nov26.mp4 (+ "-Silent").
 ```
 
-## Confirm before running
-- Is the 45-day delivery promise still valid? (It was in the Oct brochure, not in the Nov sheets.)
-- Kitchen Smart uses "HDHMR pre-laminated 16 mm" while other units use pre-laminated MDF — correct as printed?
+Confirmed by Forma (Nov 24): 45-day target delivery still valid — keep it in the 2BHK/3BHK
+trust strip as "45-day target delivery*" with "*subject to approved drawings & site readiness".
+Kitchen Smart = HDHMR pre-laminated 16 mm (correct as printed).
