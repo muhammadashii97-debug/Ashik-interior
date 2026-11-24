@@ -13,6 +13,7 @@ Posting: on hold until reach grows (Forma's decision, Nov 20).
 | Study | "Don't buy a study unit until you see what ₹1,300 a sq ft gets you." (74) |
 | 2BHK | "Don't buy a 2BHK interior until you see what ₹3.5 lakh gets you." (82) |
 | 3BHK | "Don't buy a 3BHK interior until you see what ₹4 lakh gets you." (88) |
+| Forma Movers | "Renting? Don't buy furniture you can't take with you." (87) |
 
 ## What changed vs the Oct 2026 reels (tell the tool to replace these exactly)
 | | Smart Essentials | Signature Comfort | Forma Luxe |
@@ -178,3 +179,53 @@ File names: Forma-2BHK-Nov26.mp4, Forma-3BHK-Nov26.mp4 (+ "-Silent").
 Confirmed by Forma (Nov 24): 45-day target delivery still valid — keep it in the 2BHK/3BHK
 trust strip as "45-day target delivery*" with "*subject to approved drawings & site readiness".
 Kitchen Smart = HDHMR pre-laminated 16 mm (correct as printed).
+
+---
+
+## PROMPT C — FORMA MOVERS (reel 8, ~24 s)
+
+Source: Forma_Movers_Nov2026.zip (catalogue, 9 product photos 1200x1010, range image,
+shutter colour catalogue, 2D front views). Use only these facts.
+
+```
+FORMA MOVERS reel. Same brand system as the package reels (cream/espresso/gold, serif +
+Montserrat, spring motion, depth layers), but this one has its OWN signature idea:
+
+SIGNATURE IDEA — "FLAT-PACK TO HOME": furniture assembles itself from flat panels, gets
+packed flat, rides to a new house, and assembles again. It shows the whole point of Forma
+Movers in one loop: ready-made, fixed price, and it moves with you.
+
+TIMELINE
+0:00–0:02.4  HOOK (frame 0): "RENTING?" / "DON'T BUY FURNITURE" / "YOU CAN'T TAKE WITH YOU."
+             (score 87 STRONG) Behind it: a Wardrobe 900 (FM-W900 photo) sitting in a room.
+0:02.4–0:05  THE PROBLEM: the room slides away; a simple line-drawn moving truck drives off
+             and the wardrobe is left behind, fading to grey with a "LEFT BEHIND" stamp.
+0:05–0:06    Gold sweep → title card "FORMA MOVERS" / "Ready-made. Fixed price.
+             Moves with you." (from the catalogue line).
+0:06–0:10    FLAT-PACK: the wardrobe explodes into its flat panels (2.5D, panels fan out with
+             spring physics), a gold Allen key turns, and the panels stack into a flat box.
+             Caption: "Dismantle and refit with an Allen key."
+0:10–0:12    The box rides the line-drawn truck to a new house outline; panels fly back
+             together into the wardrobe in the new room. Caption: "Your furniture moves too."
+0:12–0:19.5  THE RANGE — product carousel, 0.8 s each, each card springs in from the right
+             with its photo, name and price (+ GST):
+               Wardrobe 900 ₹16,600 · Wardrobe 600 ₹12,600 · Wardrobe 900 with drawers ₹17,500
+               · Dressing unit 600 ₹12,800 · Crockery 900 ₹12,500 · TV console 1500 ₹8,100
+               · TV console 1800 ₹10,200 · Study desk 1200 ₹8,400 · Study top shelf 1200 ₹4,500
+             A gold counter fills "1/9 … 9/9" at the top.
+0:19.5–0:21.5 COLOUR FLIP: one Wardrobe 900 shutter cycles quickly through 8–10 swatches from
+             the Shutter Colour Catalogue (a colour "rolls" across the door like paint).
+             Caption: "Shutters in any of 93 Century shades."
+0:21.5–0:24  END: 3 icon chips spring in — "Fixed price, no package needed" ·
+             "Fitted at your home" · "2-year panel warranty" — then the logo and CTA
+             "Explore Forma Movers · formastudio.site". Hold ≥ 2.5 s.
+FOOTER on price scenes: "Nov 2026 prices + 18% GST · Fitting ₹2,000 first item, ₹1,000
+each extra · Delivery by Porter at actual fare · Décor not included".
+
+MUSIC (Python, original): upbeat, light, 105 BPM — plucks + soft percussion; a "click" for
+each panel landing, a whoosh for the truck, a chime on each product card, a resolve on the
+end card. About -14 LUFS. Export 1080x1920, 30 fps, music + silent.
+File name: Forma-Movers-Nov26.mp4
+```
+Confirm before running: the buy-back guarantee ("up to 36 months") is left out until its terms
+are clear — tell us if you want it in the reel and how it should be worded.
